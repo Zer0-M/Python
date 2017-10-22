@@ -1,0 +1,9 @@
+Madlibs.py is a very basic version of Madlibs built with beginner level python.
+
+What does it do:
+
+The program takes a story from a text file with appropriately named blanks and uses either user given words or words from a built-in word bank to fill out the blanks in the story
+
+What needs to be added:
+
+This was a simple homework assignment so I didn't put much effort into it, but if I were to improve it I would add more detailed instructions, a better word bank, more stories and probably a html frontend.

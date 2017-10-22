@@ -104,11 +104,7 @@ def personalStory():
     for files in filesToBeFilled:
         gatherer+=MadLibs(files)+'\n'
     return gatherer
-    
-print 'Sample Story\n'
-print MadLibs('story0.txt')
-print 'Another Sample Story\n'
-print MadLibs('story1.txt') 
+
 print '\n'       
 print personalStory()
 print '\n'
